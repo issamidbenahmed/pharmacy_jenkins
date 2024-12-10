@@ -94,11 +94,7 @@ If you like our work, feel free to </br>
 ⭐ this repository. It helps.
 
 ## AUTHORS
-  - [Hager Abd El Galil](https://github.com/Hager-Abd-El-Galil)
-  - [Mariam Reda Mokhtar](https://github.com/Mariam-Mokhtar)
-  - [Radwa Hassan](https://github.com/RadwaHassan99)
-  - [Rowan Tamer](https://github.com/rowantamer)
-  - [Omnia Goher](https://github.com/Omnia-Goher)
+  - [Aissam idbenahmed](https://github.com/issamidbenahmed)
 
 <div align="center">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>

@@ -21,10 +21,6 @@ The `client` is the end user who can make any Order.</br>
 - Stripe Payment
 - Display Orders as Excel Sheet
 
-## DEMO
-🎬
-We Hope That You are enjoying Watching Our Demo Video 
-[Click Here](https://www.youtube.com/watch?v=6k82NfqhROo) 
 
 ## INSTALLATION
 <pre>
